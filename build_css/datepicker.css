@@ -1,0 +1,36 @@
+.date-picker{
+	background-color: #F2F2F2;
+}
+
+
+.daterangepicker td.active, .daterangepicker td.active:hover,td.active.end-date.in-range.available {
+	background-color: #343A40!important;
+}
+
+.daterangepicker td.in-range {
+	background-color: #EEDEBC!important;
+}
+
+.daterangepicker .calendar-table th, .daterangepicker .calendar-table td {
+	line-height: 30px!important;
+	font-weight: bold!important;
+	font-size: .8em!important;
+	border-radius: 50%!important;
+}
+
+.btn_fr_dtpker{
+	background: #343A40;
+}
+
+span.drp-selected {
+	font-weight: bold;
+}
+
+button.applyBtn.btn.btn-sm.btn-primary {
+	background: #343A40!important;
+}
+
+
+input#demo,select#exampleFormControlSelect1 {
+    font-size: 1.19rem;
+}

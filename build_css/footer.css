@@ -1,0 +1,30 @@
+/*open footer*/
+.nav.ic_fotr li a{
+	display: inline-block;
+	text-align: center;
+	height: 40px;
+	width: 42px;
+	border-radius: 50%;
+	color: #ECDEBC;
+	border: 2px solid #ECDEBC;
+	font-size: 1.3em;
+	line-height: 35px;
+	-webkit-transition: all 400ms linear 0s;
+	-o-transition: all 400ms linear 0s;
+	transition: all 400ms linear 0s;
+}
+
+.btn{
+	border: 1px solid #ECDEBC;
+	/* border-radius: 0 .25rem .25rem 0; */
+}
+
+.btn:hover{
+	color: #ECDEBC;
+}
+
+.btn.focus, .btn:focus{
+	box-shadow: none;
+}
+/*end footer*/
+

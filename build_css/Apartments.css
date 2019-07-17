@@ -1,0 +1,23 @@
+/*	Project : Fulton Westlake Luxury Residence
+	Date : ************
+	version : BootStrap4 @ver4.3.1*/
+
+	*{
+		margin: 0;
+		padding: 0;		
+	}
+
+	.content-right{
+		position: relative;
+		z-index: 1;
+	}
+
+	.ul-for-content {
+		position: absolute;
+	}
+
+	.More-Here-Content{
+		position: absolute;
+		bottom: 0;
+	}
+	
